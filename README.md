@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sivamedisetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sivamedisetti" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siva-medisetti-014721228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siva-medisetti-014721228/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/siva-medisetti-014721228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siva-medisetti-014721228" height="30" width="40" /></a>
 <a href="https://instagram.com/siva.__.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siva.__.16" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/siva_1608" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siva_1608" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/21mh1a4232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21mh1a4232" height="30" width="40" /></a>
