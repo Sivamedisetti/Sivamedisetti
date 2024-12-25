@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sivamedisetti" target="blank"><img src="https://img.shields.io/twitter/follow/sivamedisetti?logo=twitter&style=for-the-badge" alt="sivamedisetti" /></a> </p>
 
-- 🔭 I’m currently working on [CodeForge](https://codeforge-dyvj.onrender.com/login)
+- 🔭 I’m currently working on [CodeForge](https://codeforge-dyvj.onrender.com)
 
 - 🌱 I’m currently learning **Angular framework,Machine Learning**
 
